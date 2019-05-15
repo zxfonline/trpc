@@ -5,7 +5,7 @@ import (
 	"log"
 	"net"
 	"net/rpc"
-	"trpc/arith"
+	"../trpc/arith"
 )
 
 func main() {
